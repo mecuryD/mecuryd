@@ -1,16 +1,17 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6BC59C&height=160&section=header&text=%20Bugwang%20Choe&fontAlign=50&fontAlignY=70&fontSize=60&fontColor=000000)
 
-<!--
-**mecuryD/mecuryd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center"> Skills </h3>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white">
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=black">
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=PYTORCH&logoColor=black">
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> My Github Stats 🏃 </h3>
+<div align="center">
+
+[![mecuryd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecuryd&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/mecuryd/github-readme-stats)
+</div>
