@@ -13,8 +13,13 @@ I am trying to become a developer who studies and challenges steadily.
 #### 💻 Languages and Tools
 <div>  
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white">
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=black">
   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=PYTORCH&logoColor=black">
+</div>
+
+#### ✍️ Now I'm Learning 
+<div>
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=black">
+ 
 </div>
 
 #### ✨ My Github Stats
