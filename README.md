@@ -25,3 +25,5 @@ I am trying to become a developer who studies and challenges steadily.
 #### ✨ My Github Stats
 
 [![mecuryd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecuryd&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/mecuryd/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cbgbg0727)](https://solved.ac/cbgbg0727/)
